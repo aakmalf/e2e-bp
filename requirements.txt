@@ -1,8 +1,6 @@
 pandas
-os
-sys
 numpy
 matplotlib
 seaborn
 scikit-learn
-#-e .
+-e .
