@@ -159,3 +159,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 artifacts/
+.artifacts/
+
+.experiments/data/
+experiments/data/
+
+# artifacts/data.csv
+# artifacts/test_data.csv
+# artifacts/train_data.csv
